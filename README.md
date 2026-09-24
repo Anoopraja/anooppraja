@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anoop Prajapati</h1>
-<h3 align="center">I am a fullstack developement from India</h3>
+<h3 align="center">I am a fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [CollegeNest](collegenest.anooplofi.me)
 
-- 🌱 I’m currently learning **Express and Nodejs**
+- 🌱 I’m currently complete **Express and Nodejs**
 
 - 👨‍💻 All of my projects are available at [github/anooppraja](github/anooppraja)
 
